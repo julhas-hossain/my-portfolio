@@ -6,20 +6,20 @@
 
 A modern, responsive personal portfolio website built with React and Tailwind CSS to showcase my skills, projects, and publications in the fields of IoT, Embedded Systems, and Robotics.
 
-**Live Demo:** [**your-live-url.com**](https://your-live-url.com) 👈 *(Update this after deploying!)*
+**Live Demo:** [**your-live-url.com**](https://julhashossain.com)
 
 ---
 
 ![Portfolio Screenshot](https://via.placeholder.com/800x450/0A0A1A/1E90FF?text=Your+Screenshot+Here)
 *(**Action**: Replace the placeholder above with a real screenshot of your website.)*
 
-## ## 🚀 About The Project
+## 🚀 About The Project
 
 This project is a comprehensive single-page application that serves as my digital resume and portfolio. It highlights my journey as an IoT Researcher and Engineer, detailing my work experience, technical skills, major projects, and academic publications. The goal is to provide a clear and engaging overview of my expertise for potential collaborators, employers, and academic supervisors.
 
 ---
 
-## ## ✨ Key Features
+## ✨ Key Features
 
 * **Responsive Design**: Fully functional and visually appealing on all devices, from mobile phones to desktops.
 * **Dynamic Sections**: Content is organized into clear, scrollable sections including About, Experience, Skills, Projects, Publications, and more.
@@ -29,7 +29,7 @@ This project is a comprehensive single-page application that serves as my digita
 
 ---
 
-## ## 🛠️ Built With
+## 🛠️ Built With
 
 * **[React](https://reactjs.org/)**: A JavaScript library for building user interfaces.
 * **[Vite](https://vitejs.dev/)**: A blazing-fast frontend build tool.
@@ -38,16 +38,16 @@ This project is a comprehensive single-page application that serves as my digita
 
 ---
 
-## ## ⚙️ Getting Started
+## ⚙️ Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
-### ### Prerequisites
+### Prerequisites
 
 Make sure you have Node.js and npm installed on your machine.
 * `npm install npm@latest -g`
 
-### ### Installation
+### Installation
 
 1.  **Clone the repository:**
     ```sh
