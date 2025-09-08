@@ -6,13 +6,20 @@
 
 A modern, responsive personal portfolio website built with React and Tailwind CSS to showcase my skills, projects, and publications in the fields of IoT, Embedded Systems, and Robotics.
 
+<<<<<<< HEAD
 **Live Demo:** [**julhashossain.com**](https://julhashossain.com)
+=======
+**Live Demo:** [**your-live-url.com**](https://julhashossain.com)
+>>>>>>> 36176793ab91deab2f59acb9ccf01979e01ae0c4
 
 ---
 
 ![Portfolio Screenshot](https://raw.githubusercontent.com/julhas-hossain/my-portfolio/main/public/screenshot.png)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 36176793ab91deab2f59acb9ccf01979e01ae0c4
 ## 🚀 About The Project
 
 This project is a comprehensive single-page application that serves as my digital resume and portfolio. It highlights my journey as an IoT Researcher and Engineer, detailing my work experience, technical skills, major projects, and academic publications. The goal is to provide a clear and engaging overview of my expertise for potential collaborators, employers, and academic supervisors.
