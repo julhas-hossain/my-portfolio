@@ -50,11 +50,11 @@ Make sure you have Node.js and npm installed on your machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/react-portfolio.git](https://github.com/your-username/react-portfolio.git)
+    git clone https://github.com/julhas-hossain/my-portfolio.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd react-portfolio
+    cd my-portfolio
     ```
 3.  **Install NPM packages:**
     ```sh
